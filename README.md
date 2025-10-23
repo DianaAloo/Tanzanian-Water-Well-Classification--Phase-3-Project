@@ -175,6 +175,7 @@ Nairobi, Kenya
 </p>
 
 
+![Water Well Visualization](images/plot1.png)
 
 
 
