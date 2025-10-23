@@ -1,4 +1,3 @@
-# Tanzanian-Water-Well-Classification--Phase-3-Project
 # Tanzanian Water Well Classification — Phase 3 Project  
 
 ### Using Machine Learning to Improve Access to Clean Water in Tanzania
