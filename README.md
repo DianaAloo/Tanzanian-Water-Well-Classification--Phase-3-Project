@@ -48,15 +48,6 @@ The target variable is **`status_group`**.
 
 <img width="402" height="384" alt="Distribution of Target Classes" src="https://github.com/user-attachments/assets/d0ef9e12-d1cc-46cb-a718-49a9bda10fe6" />
 
-<div align="center">
-  <img src="images/distribution.png" alt="Distribution of Target Classes" width="45%">
-  <img src="images/water_quality.png" alt="Water Quality vs Status Group" width="45%">
-</div>
-
-<p align="center">
-  <em>Distribution of well functionality and the relationship between water quality and status.</em>
-</p>
-
 **Interpretation:**  
 Most wells are functional, but a significant proportion are non-functional or need repair.  
 Wells with poor or salty water quality are often non-functional — suggesting a link between contamination, equipment degradation, and well failure.
@@ -65,14 +56,7 @@ Wells with poor or salty water quality are often non-functional — suggesting a
 
 ###  GPS Height vs Status Group & Model Comparison
 
-<div align="center">
-  <img src="images/gps_height.png" alt="GPS Height vs Status Group" width="45%">
-  <img src="images/model_comparison.png" alt="Model Comparison by F1" width="45%">
-</div>
-
-<p align="center">
-  <em>Geographical distribution of failures and model performance comparison.</em>
-</p>
+<img width="508" height="333" alt="GPS Height vs Status Group" src="https://github.com/user-attachments/assets/49fe16fd-b1aa-41b8-a991-8972c3f283bf" />
 
 **Interpretation:**  
 Wells in low-altitude regions tend to fail more frequently, possibly due to salinity or groundwater issues.  
@@ -87,6 +71,7 @@ The models trained were:
 - Logistic Regression  
 - Decision Tree Classifier  
 - **Random Forest Classifier (Best Model)**
+- 
 
 ---
 
@@ -94,14 +79,9 @@ The models trained were:
 
 ### Confusion Matrix & Precision–Recall Curve
 
-<div align="center">
-  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="45%">
-  <img src="images/precision_recall.png" alt="Precision–Recall Curve" width="45%">
-</div>
+<img width="428" height="357" alt="Confusion Matrix" src="https://github.com/user-attachments/assets/ffd46ede-2e2f-4865-bdc0-4f510fd692f9" />
 
-<p align="center">
-  <em>Confusion matrix and precision–recall curve for Random Forest model.</em>
-</p>
+<img width="386" height="333" alt="Precision Curve" src="https://github.com/user-attachments/assets/b4ebca0a-1f9d-4506-9b78-32af51c2ebb4" />
 
 **Interpretation:**  
 The Random Forest correctly classifies most functional wells.  
@@ -112,13 +92,8 @@ It maintains high precision and recall for detecting non-functional wells — es
 
 ### ROC Curve (All Models)
 
-<p align="center">
-  <img src="images/roc_curve.png" alt="ROC Curve for All Models" width="60%">
-</p>
+<img width="497" height="387" alt="ROC Curve" src="https://github.com/user-attachments/assets/3badee37-ecd1-4857-a29a-44b990bcdc67" />
 
-<p align="center">
-  <em>ROC Curves showing model performance comparison.</em>
-</p>
 
 **Interpretation:**  
 The Random Forest has the highest AUC, confirming its superior performance across all well categories.
