@@ -46,6 +46,8 @@ The target variable is **`status_group`**.
 
 ###  Distribution of Target Classes & Water Quality vs Status Group
 
+<img width="402" height="384" alt="Distribution of Target Classes" src="https://github.com/user-attachments/assets/d0ef9e12-d1cc-46cb-a718-49a9bda10fe6" />
+
 <div align="center">
   <img src="images/distribution.png" alt="Distribution of Target Classes" width="45%">
   <img src="images/water_quality.png" alt="Water Quality vs Status Group" width="45%">
