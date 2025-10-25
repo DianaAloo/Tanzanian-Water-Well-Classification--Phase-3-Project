@@ -121,6 +121,9 @@ The Random Forest has the highest AUC, confirming its superior performance acros
 - Integrate real-time data input
 
 
+Project By : Diana Terry Awuor Aloo
+Email :dianaterryaloo@gmail.com
+
 
 
 
