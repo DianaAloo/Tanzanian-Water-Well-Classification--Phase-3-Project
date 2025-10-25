@@ -1,4 +1,5 @@
-# Tanzanian Water Well Classification — Phase 3 Project
+# Sustaining Tanzanian Water Wells with Machine Learning .
+# By Diana Terry Awuor Aloo
 
 ### Using Machine Learning to Improve Access to Clean Water in Tanzania
 
