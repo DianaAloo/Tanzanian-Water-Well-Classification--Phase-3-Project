@@ -3,7 +3,7 @@
 ### Using Machine Learning to Improve Access to Clean Water in Tanzania
 
 This project applies machine learning and data analysis to predict the functionality of water wells across Tanzania.  
-By identifying non-functional and at-risk wells, it enables stakeholders — including the Tanzanian Ministry of Water and NGOs — to make data-driven decisions on maintenance and resource allocation.
+By identifying non-functional and at-risk wells, it enables stakeholders : including the Tanzanian Ministry of Water and NGOs , to make data-driven decisions on maintenance and resource allocation.
 
 ---
 
